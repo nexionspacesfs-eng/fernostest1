@@ -1,0 +1,17 @@
+type: Drill
+name: Amberite Drill
+description: The first drill of Fernos moon. Mines sand, fernium and other low-tier ores quickly.
+size: 2
+tier: 2
+drillTime: 280
+hardness: 1
+hasPower: false
+hasLiquids: false
+updateEffect: drilling
+drillEffect: drillOperator
+requirements: [
+    { item: amberite, amount: 25 }
+]
+category: production
+research: pneumatic-drill
+alwaysUnlocked: false

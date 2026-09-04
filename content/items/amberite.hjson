@@ -1,0 +1,7 @@
+type: Item
+name: Amberite
+description: Warm amber crystal found alongside Fernium.
+color: c9a44a
+hardness: 0
+cost: 0.7
+alwaysUnlocked: true

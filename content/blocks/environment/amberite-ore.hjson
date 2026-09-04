@@ -1,0 +1,7 @@
+type: OreBlock
+name: Amberite Ore
+description: Warm amber ore found alongside Fernium.
+itemDrop: amberite
+variants: 2
+mapColor: c9a44a
+usesColor: true

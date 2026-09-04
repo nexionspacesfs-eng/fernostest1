@@ -1,0 +1,4 @@
+type: StaticWall
+name: Large Fernium Wall
+size: 2
+mapColor: 3a7a3a

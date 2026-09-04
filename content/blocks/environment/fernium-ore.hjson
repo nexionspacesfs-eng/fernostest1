@@ -1,0 +1,7 @@
+type: OreBlock
+name: Fernium Ore
+description: Common green ore of Fernos.
+itemDrop: fernium
+variants: 2
+mapColor: 6ed96e
+usesColor: true

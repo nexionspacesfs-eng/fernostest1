@@ -1,11 +1,10 @@
 type: drill
 name: Amberite Drill
-description: Mines amber and other low-tier ores.
+description: Mines amber and low-tier ores.
 size: 2
 tier: 2
 drillTime: 280
-hasPower: false
-requirements: {
-    amberite: 25
-}
+requirements: [
+    amberite/25
+]
 category: production

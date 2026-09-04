@@ -6,7 +6,6 @@ tier: 2
 drillTime: 280
 hasPower: false
 requirements: {
-    copper: 30
-    lead: 25
+    amberite: 25
 }
 category: production
